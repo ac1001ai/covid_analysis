@@ -1,7 +1,8 @@
 # COVID-19 Vaccination Forecasting
 
 ## Project Overview
-This project utilizes a public COVID-19 dataset from [Our World in Data](https://github.com/owid/covid-19-data/tree/master/public/data/vaccinations) to perform time series forecasting for vaccination progress. The goal is to predict future vaccination rates using ARIMA modeling and analyze trends over time. The code for this project is stored in vaccination_forecast.ipynb, and just to note, not all the visualizations display in the notebook preview.
+This project utilizes a public COVID-19 dataset from [Our World in Data](https://github.com/owid/covid-19-data/tree/master/public/data/vaccinations) to perform time series forecasting for vaccination progress. The goal is to predict future vaccination rates using ARIMA modeling and analyze trends over time. 
+The code for this project is stored in vaccination_forecast.ipynb. Just to note, not all the visualizations display in the notebook preview.
 
 ## Thought Process
 
