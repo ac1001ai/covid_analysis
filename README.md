@@ -13,7 +13,7 @@ The code for this project is stored in vaccination_forecast.ipynb. Just to note,
 - Set up country filtering for focused analysis.
 
 ### 2. Exploratory Data Analysis (EDA)
-- Visualize global vaccination progress. (
+- Visualize global vaccination progress.
 
 ### 3. Time Series Forecasting with ARIMA
 - Prepare time series data for the selected country.
