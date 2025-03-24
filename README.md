@@ -1,5 +1,3 @@
-# covid_analysis
-
 # COVID-19 Vaccination Forecasting
 
 ## Project Overview
