@@ -65,7 +65,7 @@ The code for this project is stored in vaccination_forecast.ipynb. Just to note,
 - Engineer additional features (demographics, healthcare indicators, policy changes).
 - Compare ARIMA with **SARIMA, Prophet, LSTM** for better accuracy.
 - Implement **rolling window cross-validation** for robust model evaluation.
-- 
+  
 ## Deployment Considerations
 ### Azure Implementation
 #### **Model Hosting**
