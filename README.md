@@ -60,13 +60,12 @@ The code for this project is stored in vaccination_forecast.ipynb. Just to note,
 - Optimize ARIMA parameters using a grid search.
 - Evaluate performance using **MAE, RMSE**.
 
-### Data Science Enhancements
+### Data Enhancements
 - Assess data quality (handling outliers, irregular reporting patterns).
 - Engineer additional features (demographics, healthcare indicators, policy changes).
 - Compare ARIMA with **SARIMA, Prophet, LSTM** for better accuracy.
 - Implement **rolling window cross-validation** for robust model evaluation.
-- Fine-tune hyperparameters using **Bayesian optimization**.
-
+- 
 ## Deployment Considerations
 ### Azure Implementation
 #### **Model Hosting**
