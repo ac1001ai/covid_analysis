@@ -59,13 +59,13 @@ The code for this project is stored in vaccination_forecast.ipynb. Just to note,
 - Implement a **train/test split** evaluation (last 30 days as test set).
 - Optimize ARIMA parameters using a grid search.
 - Evaluate performance using **MAE, RMSE**.
+- Compare ARIMA with **SARIMA, Prophet, LSTM** for better accuracy.
+- Implement **rolling window cross-validation** for robust model evaluation.
 
 ### Data Enhancements
 - Assess data quality (handling outliers, irregular reporting patterns).
 - Engineer additional features (demographics, healthcare indicators, policy changes).
-- Compare ARIMA with **SARIMA, Prophet, LSTM** for better accuracy.
-- Implement **rolling window cross-validation** for robust model evaluation.
-  
+
 ## Deployment Considerations
 ### Azure Implementation
 #### **Model Hosting**
